@@ -1,0 +1,5 @@
+# CLion project specific settings files
+**/.idea/
+
+# Pycharm 
+**/__pycache__/
